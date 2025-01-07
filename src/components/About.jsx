@@ -8,11 +8,7 @@ import { fadeIn, textVariant } from '../utils/motion';
 
 const About = () => {
   return (
-    <>
-      <motion.div>
-        <p className={styles.sectionTitle}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
-      </motion.div>
-
-
+    <div>About</div>
+  )
+}
 export default About
