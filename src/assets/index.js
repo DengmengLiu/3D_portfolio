@@ -23,7 +23,7 @@ import threejs from "./tech/threejs.svg";
 import Csharp from "./tech/Csharp.png";
 import swift from "./tech/swift.png";
 import PHP from "./tech/PHP.png";
-import SQL from "./tech/sql.png";
+import SQL from "./tech/SQL.png";
 import unity from "./tech/unity.png";
 import mysql from "./tech/mysql.png";
 
