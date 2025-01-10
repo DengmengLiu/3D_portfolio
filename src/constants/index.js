@@ -4,17 +4,17 @@ import {
     creator,
     web,
     javascript,
-    typescript,
     html,
     css,
     reactjs,
-    redux,
+    unity,
     tailwind,
-    nodejs,
-    mongodb,
+    mysql,
+    Csharp,
     git,
-    figma,
-    docker,
+    swift,
+    SQL,
+    PHP,
     meta,
     starbucks,
     tesla,
@@ -61,6 +61,18 @@ import {
   
   const technologies = [
     {
+      name: "C#",
+      icon: Csharp,
+    },
+    {
+      name: "SQL",
+      icon: SQL,
+    },
+    {
+      name: "git",
+      icon: git,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -73,44 +85,32 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
     },
     {
       name: "Tailwind CSS",
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "PHP",
+      icon: PHP,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "mySQL",
+      icon: mysql,
     },
     {
       name: "Three JS",
       icon: threejs,
     },
     {
-      name: "git",
-      icon: git,
+      name: "Swift",
+      icon: swift,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
+      name: "Unity",
+      icon: unity,
     },
   ];
   
