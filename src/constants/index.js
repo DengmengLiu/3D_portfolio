@@ -15,10 +15,9 @@ import {
     swift,
     SQL,
     PHP,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    uts,
+    bakerie,
+    coles,
     carrent,
     jobit,
     tripguide,
@@ -42,11 +41,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Software Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Game Developer",
       icon: mobile,
     },
     {
@@ -116,57 +115,39 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Casual Academic",
+      company_name: "University of Technology Sydney",
+      icon: uts,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "August 2024 - December 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "<strong>Project Coordination: </strong><br />Supported my supervisor’s projects—two major initiatives detailed in the Relevant Projects section—by conducting weekly meetings to review the previous week’sprogress and set clear objectives for the coming week. ",
+        "<strong>Daily Task Management: </strong><br />Developed detailed daily work plans by breaking down project tasks into actionable steps with specific timelines, ensuring efficient execution. ollaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "<strong>Issue Resolution: </strong><br />Proactively communicated any challenges to my supervisor, collaboratively discussing and integrating solutions into daily work routines to maintain project momentum.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Bake Section Leader",
+      company_name: "Bakerie@",
+      icon: bakerie,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "March 2022 - January 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "<strong>Process Improvement: </strong><br />Increased daily output by 10% while maintaining a 99% quality pass rate through batch processing and task prioritization; implemented a task checklist signature system to ensure 100% task accountability.",
+        "<strong>Team Management: </strong><br />Led a 3–4member team, enhancing morale through daily communications and reducing turnover by 25%; developed a hands-on training program for new hires, with 80% exceeding performance benchmarks within one month. ",
       ],
     },
+    {
+      title: "Coles Services",
+      company_name: "Coles",
+      icon: coles,
+      iconBg: "#E6DEDD",
+      date: "January 2018 - January 2020",
+      points: [
+        "<strong>Workflow Optimization: </strong><br />Redesigned task allocation—strategically planning clean routes and adjusting trolley collection intervals based on busy and idle periods—to reduce task completion time by 15% and maintain trolley availability at 95%+ during peak hours. ",
+        "<strong>Training Enhancement: </strong><br />Trained over 2 new hires on store protocols and cleanliness standards, improving overall store cleanliness by 20% and enhancing the customer shopping experience. ",
+      ],
+    }
   ];
   
   const testimonials = [
@@ -198,67 +179,64 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "FFYE Grant Project",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A project aims to help new students navigate key university processes, such as course enrolment, academic support, and timetable management, through an interactive game-based system. ",
       tags: [
         {
-          name: "react",
+          name: "Unity",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "C#",
           color: "green-text-gradient",
         },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
+        
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/DengmengLiu/UTS-Prep-Project_FFYE-Grant_Game-based-Learning",
     },
     {
-      name: "Job IT",
+      name: "Satellite Demonstration Project",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A Unity-based demonstration video designed to assist my supervisor in presenting his research on low-earth-orbit (LEO) satellite communication.",
       tags: [
         {
-          name: "react",
+          name: "Unity",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "C#",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Blender",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/DengmengLiu/Satellites-Demonstration-Project",
     },
     {
-      name: "Trip Guide",
+      name: "Film-Frenzy",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Film-Frenzy is a mock iOS movie consulting app that leverages The Movie Database (TMDB) API to display information on currently trending and top-rated movies.",
       tags: [
         {
-          name: "nextjs",
+          name: "Xcode",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Swift",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "API",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/DengmengLiu/Film-Frenzy",
     },
   ];
   

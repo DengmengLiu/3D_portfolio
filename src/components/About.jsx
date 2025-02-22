@@ -45,12 +45,10 @@ const About = () => {
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} 
       className="mt-4 text-secondary text-[17px] max-w-4xl leading-[30px]">
-        I'm a skilled Unity developer with experience in creating 
-        immersive 3D experiences and games. I specialize in C# 
-        programming, game mechanics implementation, and optimizing 
-        performance. My strong foundation in computer graphics and 
-        physics enables me to develop engaging interactive experiences 
-        while maintaining efficient resource management.
+        As a recently graduated Master of IT student from UTS, I have a great passion for software development. 
+Seeking a full-stack development role in a tech-driven company to leverage expertise in C#, .net and 
+database systems. Leveraging my solid foundation in IT and recent project experience, I am eager to 
+contribute to innovative software solutions and grow professionally within a collaborative team environment. 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

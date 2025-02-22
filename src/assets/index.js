@@ -27,10 +27,9 @@ import SQL from "./tech/SQL.png";
 import unity from "./tech/unity.png";
 import mysql from "./tech/mysql.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import uts from "./company/uts.png";
+import coles from "./company/coles.png";
+import bakerie from "./company/bakerie.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -65,10 +64,10 @@ export {
   PHP,
   mysql,
 
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  uts,
+  coles,
+  bakerie,
+
   carrent,
   jobit,
   tripguide,
