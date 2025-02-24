@@ -122,7 +122,7 @@ import {
       date: "August 2024 - December 2024",
       points: [
         "<strong>Project Coordination: </strong><br />Supported my supervisor’s projects—two major initiatives detailed in the Relevant Projects section—by conducting weekly meetings to review the previous week’sprogress and set clear objectives for the coming week. ",
-        "<strong>Daily Task Management: </strong><br />Developed detailed daily work plans by breaking down project tasks into actionable steps with specific timelines, ensuring efficient execution. ollaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "<strong>Task Management: </strong><br />Developed detailed daily work plans by breaking down project tasks into actionable steps with specific timelines, ensuring efficient execution. ollaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "<strong>Issue Resolution: </strong><br />Proactively communicated any challenges to my supervisor, collaboratively discussing and integrating solutions into daily work routines to maintain project momentum.",
       ],
     },
@@ -133,8 +133,10 @@ import {
       iconBg: "#E6DEDD",
       date: "March 2022 - January 2024",
       points: [
-        "<strong>Process Improvement: </strong><br />Increased daily output by 10% while maintaining a 99% quality pass rate through batch processing and task prioritization; implemented a task checklist signature system to ensure 100% task accountability.",
-        "<strong>Team Management: </strong><br />Led a 3–4member team, enhancing morale through daily communications and reducing turnover by 25%; developed a hands-on training program for new hires, with 80% exceeding performance benchmarks within one month. ",
+        "<strong>Operations: </strong><br />Directed early morning bakery operations by planning production for croissants, sourdough, baguettes, and pastries based on pre-prepared orders and daily forecasts.",
+        "<strong>Scheduling: </strong><br />Managed the scheduling and utilization of four ovens under tight deadlines, optimizing baking sequences to reduce overall production time by 10% and ensure efficient production.",
+        "<strong>Supervision: </strong><br />Supervised and trained team members, performing on-the-spot quality checks and prompt defect resolution to uphold product standards while maintaining a 99% quality pass rate.",
+        "<strong>Coordination: </strong><br />Coordinated post-shift activities including inventory organization, cold storage rotation, and task delegation with accountability measures, ensuring a seamless transition to the next day’s operations.",
       ],
     },
     {
@@ -144,8 +146,9 @@ import {
       iconBg: "#E6DEDD",
       date: "January 2018 - January 2020",
       points: [
-        "<strong>Workflow Optimization: </strong><br />Redesigned task allocation—strategically planning clean routes and adjusting trolley collection intervals based on busy and idle periods—to reduce task completion time by 15% and maintain trolley availability at 95%+ during peak hours. ",
-        "<strong>Training Enhancement: </strong><br />Trained over 2 new hires on store protocols and cleanliness standards, improving overall store cleanliness by 20% and enhancing the customer shopping experience. ",
+        "<strong>Cleaning: </strong><br />Executed comprehensive cleaning of shopping areas, offices, and restrooms within the first two hours of the day, creating a welcoming environment and streamlining store opening processes.",
+        "<strong>Organization: </strong><br />Organized and maintained trolley availability during peak hours through effective time management, reducing task completion time by 15% and ensuring availability above 95%.",
+        "<strong>Maintenance: </strong><br />Undertook additional weekly maintenance tasks—such as cleaning refrigerators, wiping glass surfaces, and scrubbing produce area floors—to enhance overall store cleanliness by 20%.",
       ],
     }
   ];
