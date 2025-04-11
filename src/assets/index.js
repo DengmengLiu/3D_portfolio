@@ -30,6 +30,7 @@ import mysql from "./tech/mysql.png";
 import uts from "./company/uts.png";
 import coles from "./company/coles.png";
 import bakerie from "./company/bakerie.png";
+import yuda from "./company/YUDA.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -67,6 +68,7 @@ export {
   uts,
   coles,
   bakerie,
+  yuda,
 
   carrent,
   jobit,
