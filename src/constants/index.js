@@ -14,6 +14,7 @@ import {
     git,
     swift,
     SQL,
+    nodejs,
     PHP,
     uts,
     bakerie,
@@ -64,22 +65,22 @@ import {
       name: "C#",
       icon: Csharp,
     },
-    {
-      name: "SQL",
-      icon: SQL,
-    },
+    // {
+    //   name: "SQL",
+    //   icon: SQL,
+    // },
     {
       name: "git",
       icon: git,
     },
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
+    // {
+    //   name: "HTML 5",
+    //   icon: html,
+    // },
+    // {
+    //   name: "CSS 3",
+    //   icon: css,
+    // },
     {
       name: "JavaScript",
       icon: javascript,
@@ -99,6 +100,10 @@ import {
     {
       name: "mySQL",
       icon: mysql,
+    },
+    {
+      name: "Node JS",
+      icon: nodejs,
     },
     {
       name: "Three JS",
