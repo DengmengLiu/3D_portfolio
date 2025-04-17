@@ -121,7 +121,7 @@ import {
   
   const experiences = [
     {
-      title: "Casual Academic",
+      title: "Casual Academic & Research Support",
       company_name: "University of Technology Sydney",
       icon: uts,
       iconBg: "#E6DEDD",
@@ -139,11 +139,10 @@ import {
       iconBg: "#E6DEDD",
       date: "January 2024 - July 2024",
       points: [
-        "Contributed to the development of the backend for a company’s management system, focusing on API communication and data management, under the guidance of a senior developer.",
-        "Assisted in the development of robust and scalable RESTful APIs using .NET Core for the company’s backend management system, working closely with a senior developer.",
-        "Participated in the design, implementation, and maintenance of the database schema to ensure efficient data storage and retrieval.",
+        "Contributed to the development of the backend for the company’s management system, focusing on API communication and data management, under the guidance of a senior developer.",
+        "Assisted in the development of 12+ core RESTful APIs with .NET Core for backend management system, reducing average response time by 25% through query optimization and caching strategies.",
+        "Participated in the design, implementation, and maintenance of the database schema. Improved data retrieval efficiency by 30% by redesigning database schema and implementing index optimization across 6 critical table.",
         "Developed and implemented key backend functionalities and logic using .NET Core, contributing to the smooth operation of the internal management processes.",
-        "Facilitated data interaction between the React-based frontend and the backend by contributing to the development and integration of APIs.",
         "Conducted program testing to identify and resolve issues, ensuring the reliability and performance of the backend system.",
       ],
     },
